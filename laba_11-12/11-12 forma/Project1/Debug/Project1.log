@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\nikit\source\repos\11-12 forma\Project1\MyForm.h(258,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\nikit\source\repos\11-12 forma\Debug\Project1.exe
