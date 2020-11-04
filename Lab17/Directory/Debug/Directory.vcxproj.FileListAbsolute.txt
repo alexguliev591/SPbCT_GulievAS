@@ -1,0 +1,3 @@
+C:\Users\nikit\source\repos\Laba17\Directory\Debug\Directory.vcxprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Laba17\Directory\Debug\Directory.exe
+C:\Users\nikit\source\repos\Laba17\Directory\Debug\Directory.pdb
