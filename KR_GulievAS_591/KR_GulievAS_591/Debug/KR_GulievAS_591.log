@@ -1,0 +1,3 @@
+﻿  KR_GulievAS_591.cpp
+C:\Users\Alex\source\repos\KR_GulievAS_591\KR_GulievAS_591\KR_GulievAS_591.cpp(32,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  KR_GulievAS_591.vcxproj -> C:\Users\Alex\source\repos\KR_GulievAS_591\Debug\KR_GulievAS_591.exe
